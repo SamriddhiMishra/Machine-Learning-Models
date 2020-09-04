@@ -14,3 +14,5 @@ We need a strong model that predicts how the virus could spread across different
 2) Is this trend similar to Italy/S. Korea/ Wuhan
 3) Exploring the world wide data
 4) Forecasting the world wide COVID-19 cases using Prophet **
+
+For an interactive experience checkout the link- https://nbviewer.jupyter.org/github/SamriddhiMishra/Machine-Learning-Models/blob/5982ef27f4f64d9acca2484c7d7e66f0acd87cb0/Covid_19_outbreak_prediction/COVID_19_Outbreak_Prediction.ipynb
